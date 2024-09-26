@@ -90,7 +90,7 @@ Check [venv — Creation of virtual environments](https://docs.python.org/3/libr
 In the terminal write:
 
 ```
-.\CI2024\Scripts\Activate.ps1
+.\<your-venv>\Scripts\Activate.ps1
 ```
 
 to activate the environment
@@ -162,4 +162,4 @@ Then select your newly created environment
 
 ![](imgs/p6.png)
 
-You're all done now! Try some code and che if all the file works
+You're all done now! Try some code and che if all the file works.
